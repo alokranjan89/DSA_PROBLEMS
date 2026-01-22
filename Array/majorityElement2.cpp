@@ -43,3 +43,11 @@ public:
         return res;
     }
 };
+
+/*📝 Very Short Note
+
+1️⃣ At most 2 elements can appear more than n/3 times
+2️⃣ Use two candidates and two counters
+3️⃣ Cancel votes when all three differ
+4️⃣ Verify candidates in second pass
+*/
